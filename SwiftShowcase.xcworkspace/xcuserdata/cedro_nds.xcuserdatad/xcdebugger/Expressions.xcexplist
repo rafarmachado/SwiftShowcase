@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "DetailsLanguageViewController.collectionView(UICollectionView, layout : UICollectionViewLayout, sizeForItemAt : IndexPath) -&gt; CGSize:DetailsLanguageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "        return CGSize(width: screenWidth/2, height: screenWidth/2);&#10;        return CGSize(width: screenWidth/2, height: screenWidth/2);&#10;screenWidth/2">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DetailsLanguageViewController.getWindowsSize() -&gt; ():CTDetailsLanguageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "screenSize">
+            </PersistentString>
+            <PersistentString
+               value = "screenWidth">
+            </PersistentString>
+            <PersistentString
+               value = "screenHeight">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

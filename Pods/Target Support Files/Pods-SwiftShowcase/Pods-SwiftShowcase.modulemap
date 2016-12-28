@@ -1,0 +1,6 @@
+framework module Pods_SwiftShowcase {
+  umbrella header "Pods-SwiftShowcase-umbrella.h"
+
+  export *
+  module * { export * }
+}
